@@ -307,16 +307,3 @@ Future enhancements planned:
 ---
 
 **Built with ❤️ using Python, Cantera, and Matplotlib**
-```
-
-This README provides:
-1. Clear project overview and features
-2. Installation instructions for different environments
-3. Detailed usage guide with examples
-4. Interface documentation
-5. Troubleshooting common issues
-6. Contributing guidelines
-7. Technical architecture details
-8. Future roadmap
-
-The README is professional, comprehensive, and user-friendly, suitable for both new users and experienced developers.
